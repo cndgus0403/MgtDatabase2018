@@ -8,3 +8,4 @@ for i in range(0,31,2):
     num = num + i
     
 print("sum = ",num)
+print("great")
